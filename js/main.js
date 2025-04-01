@@ -9,7 +9,7 @@
 		var headerNav = document.querySelector('.header__nav');
 		var header = document.querySelector('.header');
 
-		headerBtn.addEventListener('click', function() {
+		headerBtn.addEventListener('click', function () {
 			headerBtn.classList.toggle('header__btn--active');
 			headerNav.classList.toggle('header__nav--active');
 
@@ -35,8 +35,8 @@
 	if (document.querySelector('.roadmap__carousel')) {
 		var elms = document.getElementsByClassName('roadmap__carousel');
 
-		for ( var i = 0; i < elms.length; i++ ) {
-			new Splide(elms[ i ], {
+		for (var i = 0; i < elms.length; i++) {
+			new Splide(elms[i], {
 				type: 'loop',
 				perPage: 3,
 				drag: true,
@@ -79,9 +79,9 @@
 			gyroControls: false,
 			minHeight: 200.00,
 			minWidth: 200.00,
-			highlightColor: 0xA034FA,
-			midtoneColor: 0xA034FA,
-			lowlightColor: 0xE66C12,
+			highlightColor: 0xBBF49C,
+			midtoneColor: 0x7fed43,
+			lowlightColor: 0x5bfd03,
 			baseColor: 0x16142A,
 			blurFactor: 0.90,
 			speed: 1.70,
@@ -142,7 +142,7 @@
 	/*==============================
 	Modal
 	==============================*/
-	document.querySelectorAll('.modal').forEach(function(myModalEl) {
+	document.querySelectorAll('.modal').forEach(function (myModalEl) {
 		myModalEl.addEventListener('show.bs.modal', event => {
 			if (window.innerWidth > 1200) {
 				var header = document.querySelector('.header');
