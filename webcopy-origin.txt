@@ -1,0 +1,424 @@
+Uri: https://centure.volkovdesign.com/404.html
+File Name: D:\theme\centure.volkovdesign.com\404.html
+Content Type: text/html
+
+Uri: https://centure.volkovdesign.com/about.html
+File Name: D:\theme\centure.volkovdesign.com\about.html
+Content Type: text/html
+
+Uri: https://centure.volkovdesign.com/affiliate.html
+File Name: D:\theme\centure.volkovdesign.com\affiliate.html
+Content Type: text/html
+
+Uri: https://centure.volkovdesign.com/article.html
+File Name: D:\theme\centure.volkovdesign.com\article.html
+Content Type: text/html
+
+Uri: https://centure.volkovdesign.com/blog.html
+File Name: D:\theme\centure.volkovdesign.com\blog.html
+Content Type: text/html
+
+Uri: https://centure.volkovdesign.com/contacts.html
+File Name: D:\theme\centure.volkovdesign.com\contacts.html
+Content Type: text/html
+
+Uri: https://centure.volkovdesign.com/contest.html
+File Name: D:\theme\centure.volkovdesign.com\contest.html
+Content Type: text/html
+
+Uri: https://centure.volkovdesign.com/css/bootstrap.min.css
+File Name: D:\theme\centure.volkovdesign.com\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://centure.volkovdesign.com/css/main.css
+File Name: D:\theme\centure.volkovdesign.com\css\main.css
+Content Type: text/css
+
+Uri: https://centure.volkovdesign.com/css/splide.min.css
+File Name: D:\theme\centure.volkovdesign.com\css\splide.min.css
+Content Type: text/css
+
+Uri: https://centure.volkovdesign.com/faq.html
+File Name: D:\theme\centure.volkovdesign.com\faq.html
+Content Type: text/html
+
+Uri: https://centure.volkovdesign.com/forgot.html
+File Name: D:\theme\centure.volkovdesign.com\forgot.html
+Content Type: text/html
+
+Uri: https://centure.volkovdesign.com/how.html
+File Name: D:\theme\centure.volkovdesign.com\how.html
+Content Type: text/html
+
+Uri: https://centure.volkovdesign.com/icon/favicon-32x32.png
+File Name: D:\theme\centure.volkovdesign.com\icon\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://centure.volkovdesign.com/img/bg.png
+File Name: D:\theme\centure.volkovdesign.com\img\bg.png
+Content Type: image/png
+
+Uri: https://centure.volkovdesign.com/img/btn/down.svg
+File Name: D:\theme\centure.volkovdesign.com\img\btn\down.svg
+Content Type: image/svg+xml
+
+Uri: https://centure.volkovdesign.com/img/btn/left--small.svg
+File Name: D:\theme\centure.volkovdesign.com\img\btn\left--small.svg
+Content Type: image/svg+xml
+
+Uri: https://centure.volkovdesign.com/img/btn/left.svg
+File Name: D:\theme\centure.volkovdesign.com\img\btn\left.svg
+Content Type: image/svg+xml
+
+Uri: https://centure.volkovdesign.com/img/btn/right--small.svg
+File Name: D:\theme\centure.volkovdesign.com\img\btn\right--small.svg
+Content Type: image/svg+xml
+
+Uri: https://centure.volkovdesign.com/img/btn/right.svg
+File Name: D:\theme\centure.volkovdesign.com\img\btn\right.svg
+Content Type: image/svg+xml
+
+Uri: https://centure.volkovdesign.com/img/dodgers/dots--blue.svg
+File Name: D:\theme\centure.volkovdesign.com\img\dodgers\dots--blue.svg
+Content Type: image/svg+xml
+
+Uri: https://centure.volkovdesign.com/img/dodgers/dots--green.svg
+File Name: D:\theme\centure.volkovdesign.com\img\dodgers\dots--green.svg
+Content Type: image/svg+xml
+
+Uri: https://centure.volkovdesign.com/img/dodgers/dots--line-blue.svg
+File Name: D:\theme\centure.volkovdesign.com\img\dodgers\dots--line-blue.svg
+Content Type: image/svg+xml
+
+Uri: https://centure.volkovdesign.com/img/dodgers/dots--line-green.svg
+File Name: D:\theme\centure.volkovdesign.com\img\dodgers\dots--line-green.svg
+Content Type: image/svg+xml
+
+Uri: https://centure.volkovdesign.com/img/dodgers/dots--line-orange.svg
+File Name: D:\theme\centure.volkovdesign.com\img\dodgers\dots--line-orange.svg
+Content Type: image/svg+xml
+
+Uri: https://centure.volkovdesign.com/img/dodgers/dots--line-purple.svg
+File Name: D:\theme\centure.volkovdesign.com\img\dodgers\dots--line-purple.svg
+Content Type: image/svg+xml
+
+Uri: https://centure.volkovdesign.com/img/dodgers/dots--line-red.svg
+File Name: D:\theme\centure.volkovdesign.com\img\dodgers\dots--line-red.svg
+Content Type: image/svg+xml
+
+Uri: https://centure.volkovdesign.com/img/dodgers/dots--orange.svg
+File Name: D:\theme\centure.volkovdesign.com\img\dodgers\dots--orange.svg
+Content Type: image/svg+xml
+
+Uri: https://centure.volkovdesign.com/img/dodgers/dots--purple.svg
+File Name: D:\theme\centure.volkovdesign.com\img\dodgers\dots--purple.svg
+Content Type: image/svg+xml
+
+Uri: https://centure.volkovdesign.com/img/dodgers/dots--red.svg
+File Name: D:\theme\centure.volkovdesign.com\img\dodgers\dots--red.svg
+Content Type: image/svg+xml
+
+Uri: https://centure.volkovdesign.com/img/dodgers/dots--yellow.svg
+File Name: D:\theme\centure.volkovdesign.com\img\dodgers\dots--yellow.svg
+Content Type: image/svg+xml
+
+Uri: https://centure.volkovdesign.com/img/dodgers/screw--big-bl.svg
+File Name: D:\theme\centure.volkovdesign.com\img\dodgers\screw--big-bl.svg
+Content Type: image/svg+xml
+
+Uri: https://centure.volkovdesign.com/img/dodgers/screw--big-br.svg
+File Name: D:\theme\centure.volkovdesign.com\img\dodgers\screw--big-br.svg
+Content Type: image/svg+xml
+
+Uri: https://centure.volkovdesign.com/img/dodgers/screw--big-tl.svg
+File Name: D:\theme\centure.volkovdesign.com\img\dodgers\screw--big-tl.svg
+Content Type: image/svg+xml
+
+Uri: https://centure.volkovdesign.com/img/dodgers/screw--big-tr.svg
+File Name: D:\theme\centure.volkovdesign.com\img\dodgers\screw--big-tr.svg
+Content Type: image/svg+xml
+
+Uri: https://centure.volkovdesign.com/img/dodgers/screw--header-left.svg
+File Name: D:\theme\centure.volkovdesign.com\img\dodgers\screw--header-left.svg
+Content Type: image/svg+xml
+
+Uri: https://centure.volkovdesign.com/img/dodgers/screw--header-right.svg
+File Name: D:\theme\centure.volkovdesign.com\img\dodgers\screw--header-right.svg
+Content Type: image/svg+xml
+
+Uri: https://centure.volkovdesign.com/img/dodgers/screw--lines-bl.svg
+File Name: D:\theme\centure.volkovdesign.com\img\dodgers\screw--lines-bl.svg
+Content Type: image/svg+xml
+
+Uri: https://centure.volkovdesign.com/img/dodgers/screw--lines-br.svg
+File Name: D:\theme\centure.volkovdesign.com\img\dodgers\screw--lines-br.svg
+Content Type: image/svg+xml
+
+Uri: https://centure.volkovdesign.com/img/dodgers/screw--lines-tl.svg
+File Name: D:\theme\centure.volkovdesign.com\img\dodgers\screw--lines-tl.svg
+Content Type: image/svg+xml
+
+Uri: https://centure.volkovdesign.com/img/dodgers/screw--lines-tr.svg
+File Name: D:\theme\centure.volkovdesign.com\img\dodgers\screw--lines-tr.svg
+Content Type: image/svg+xml
+
+Uri: https://centure.volkovdesign.com/img/dodgers/screw.svg
+File Name: D:\theme\centure.volkovdesign.com\img\dodgers\screw.svg
+Content Type: image/svg+xml
+
+Uri: https://centure.volkovdesign.com/img/dodgers/stats--blue.svg
+File Name: D:\theme\centure.volkovdesign.com\img\dodgers\stats--blue.svg
+Content Type: image/svg+xml
+
+Uri: https://centure.volkovdesign.com/img/dodgers/stats--green.svg
+File Name: D:\theme\centure.volkovdesign.com\img\dodgers\stats--green.svg
+Content Type: image/svg+xml
+
+Uri: https://centure.volkovdesign.com/img/dodgers/stats--orange.svg
+File Name: D:\theme\centure.volkovdesign.com\img\dodgers\stats--orange.svg
+Content Type: image/svg+xml
+
+Uri: https://centure.volkovdesign.com/img/dodgers/stats--purple.svg
+File Name: D:\theme\centure.volkovdesign.com\img\dodgers\stats--purple.svg
+Content Type: image/svg+xml
+
+Uri: https://centure.volkovdesign.com/img/dodgers/stats--red.svg
+File Name: D:\theme\centure.volkovdesign.com\img\dodgers\stats--red.svg
+Content Type: image/svg+xml
+
+Uri: https://centure.volkovdesign.com/img/dodgers/title--left.svg
+File Name: D:\theme\centure.volkovdesign.com\img\dodgers\title--left.svg
+Content Type: image/svg+xml
+
+Uri: https://centure.volkovdesign.com/img/dodgers/title--right.svg
+File Name: D:\theme\centure.volkovdesign.com\img\dodgers\title--right.svg
+Content Type: image/svg+xml
+
+Uri: https://centure.volkovdesign.com/img/dollar.svg
+File Name: D:\theme\centure.volkovdesign.com\img\dollar.svg
+Content Type: image/svg+xml
+
+Uri: https://centure.volkovdesign.com/img/exchanges/binance.png
+File Name: D:\theme\centure.volkovdesign.com\img\exchanges\binance.png
+Content Type: image/png
+
+Uri: https://centure.volkovdesign.com/img/exchanges/bitfinex.png
+File Name: D:\theme\centure.volkovdesign.com\img\exchanges\bitfinex.png
+Content Type: image/png
+
+Uri: https://centure.volkovdesign.com/img/exchanges/bitget.png
+File Name: D:\theme\centure.volkovdesign.com\img\exchanges\bitget.png
+Content Type: image/png
+
+Uri: https://centure.volkovdesign.com/img/exchanges/bithumb.png
+File Name: D:\theme\centure.volkovdesign.com\img\exchanges\bithumb.png
+Content Type: image/png
+
+Uri: https://centure.volkovdesign.com/img/exchanges/coinbase.png
+File Name: D:\theme\centure.volkovdesign.com\img\exchanges\coinbase.png
+Content Type: image/png
+
+Uri: https://centure.volkovdesign.com/img/exchanges/coincheck.png
+File Name: D:\theme\centure.volkovdesign.com\img\exchanges\coincheck.png
+Content Type: image/png
+
+Uri: https://centure.volkovdesign.com/img/exchanges/gate.png
+File Name: D:\theme\centure.volkovdesign.com\img\exchanges\gate.png
+Content Type: image/png
+
+Uri: https://centure.volkovdesign.com/img/exchanges/kraken.png
+File Name: D:\theme\centure.volkovdesign.com\img\exchanges\kraken.png
+Content Type: image/png
+
+Uri: https://centure.volkovdesign.com/img/exchanges/kucoin.png
+File Name: D:\theme\centure.volkovdesign.com\img\exchanges\kucoin.png
+Content Type: image/png
+
+Uri: https://centure.volkovdesign.com/img/exchanges/okx.png
+File Name: D:\theme\centure.volkovdesign.com\img\exchanges\okx.png
+Content Type: image/png
+
+Uri: https://centure.volkovdesign.com/img/exchanges/upbit.png
+File Name: D:\theme\centure.volkovdesign.com\img\exchanges\upbit.png
+Content Type: image/png
+
+Uri: https://centure.volkovdesign.com/img/graph/graph1.svg
+File Name: D:\theme\centure.volkovdesign.com\img\graph\graph1.svg
+Content Type: image/svg+xml
+
+Uri: https://centure.volkovdesign.com/img/graph/graph2.svg
+File Name: D:\theme\centure.volkovdesign.com\img\graph\graph2.svg
+Content Type: image/svg+xml
+
+Uri: https://centure.volkovdesign.com/img/graph/graph3.svg
+File Name: D:\theme\centure.volkovdesign.com\img\graph\graph3.svg
+Content Type: image/svg+xml
+
+Uri: https://centure.volkovdesign.com/img/graph/graph4.svg
+File Name: D:\theme\centure.volkovdesign.com\img\graph\graph4.svg
+Content Type: image/svg+xml
+
+Uri: https://centure.volkovdesign.com/img/logo.svg
+File Name: D:\theme\centure.volkovdesign.com\img\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://centure.volkovdesign.com/img/partners/logo1.svg
+File Name: D:\theme\centure.volkovdesign.com\img\partners\logo1.svg
+Content Type: image/svg+xml
+
+Uri: https://centure.volkovdesign.com/img/partners/logo2.svg
+File Name: D:\theme\centure.volkovdesign.com\img\partners\logo2.svg
+Content Type: image/svg+xml
+
+Uri: https://centure.volkovdesign.com/img/partners/logo3.svg
+File Name: D:\theme\centure.volkovdesign.com\img\partners\logo3.svg
+Content Type: image/svg+xml
+
+Uri: https://centure.volkovdesign.com/img/partners/logo4.svg
+File Name: D:\theme\centure.volkovdesign.com\img\partners\logo4.svg
+Content Type: image/svg+xml
+
+Uri: https://centure.volkovdesign.com/img/partners/logo5.svg
+File Name: D:\theme\centure.volkovdesign.com\img\partners\logo5.svg
+Content Type: image/svg+xml
+
+Uri: https://centure.volkovdesign.com/img/partners/logo6.svg
+File Name: D:\theme\centure.volkovdesign.com\img\partners\logo6.svg
+Content Type: image/svg+xml
+
+Uri: https://centure.volkovdesign.com/img/partners/logo7.svg
+File Name: D:\theme\centure.volkovdesign.com\img\partners\logo7.svg
+Content Type: image/svg+xml
+
+Uri: https://centure.volkovdesign.com/img/partners/logo8.svg
+File Name: D:\theme\centure.volkovdesign.com\img\partners\logo8.svg
+Content Type: image/svg+xml
+
+Uri: https://centure.volkovdesign.com/img/posts/1.jpg
+File Name: D:\theme\centure.volkovdesign.com\img\posts\1.jpg
+Content Type: image/jpeg
+
+Uri: https://centure.volkovdesign.com/img/posts/2.jpg
+File Name: D:\theme\centure.volkovdesign.com\img\posts\2.jpg
+Content Type: image/jpeg
+
+Uri: https://centure.volkovdesign.com/img/posts/3.jpg
+File Name: D:\theme\centure.volkovdesign.com\img\posts\3.jpg
+Content Type: image/jpeg
+
+Uri: https://centure.volkovdesign.com/img/posts/4.jpg
+File Name: D:\theme\centure.volkovdesign.com\img\posts\4.jpg
+Content Type: image/jpeg
+
+Uri: https://centure.volkovdesign.com/img/posts/5.jpg
+File Name: D:\theme\centure.volkovdesign.com\img\posts\5.jpg
+Content Type: image/jpeg
+
+Uri: https://centure.volkovdesign.com/img/posts/6.jpg
+File Name: D:\theme\centure.volkovdesign.com\img\posts\6.jpg
+Content Type: image/jpeg
+
+Uri: https://centure.volkovdesign.com/img/posts/article.jpg
+File Name: D:\theme\centure.volkovdesign.com\img\posts\article.jpg
+Content Type: image/jpeg
+
+Uri: https://centure.volkovdesign.com/index.html
+File Name: D:\theme\centure.volkovdesign.com\index.html
+Content Type: text/html
+
+Uri: https://centure.volkovdesign.com/index2.html
+File Name: D:\theme\centure.volkovdesign.com\index2.html
+Content Type: text/html
+
+Uri: https://centure.volkovdesign.com/invest.html
+File Name: D:\theme\centure.volkovdesign.com\invest.html
+Content Type: text/html
+
+Uri: https://centure.volkovdesign.com/js/bootstrap.bundle.min.js
+File Name: D:\theme\centure.volkovdesign.com\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://centure.volkovdesign.com/js/main.js
+File Name: D:\theme\centure.volkovdesign.com\js\main.js
+Content Type: application/javascript
+
+Uri: https://centure.volkovdesign.com/js/smooth-scrollbar.js
+File Name: D:\theme\centure.volkovdesign.com\js\smooth-scrollbar.js
+Content Type: application/javascript
+
+Uri: https://centure.volkovdesign.com/js/splide.min.js
+File Name: D:\theme\centure.volkovdesign.com\js\splide.min.js
+Content Type: application/javascript
+
+Uri: https://centure.volkovdesign.com/js/three.min.js
+File Name: D:\theme\centure.volkovdesign.com\js\three.min.js
+Content Type: application/javascript
+
+Uri: https://centure.volkovdesign.com/js/vanta.fog.min.js
+File Name: D:\theme\centure.volkovdesign.com\js\vanta.fog.min.js
+Content Type: application/javascript
+
+Uri: https://centure.volkovdesign.com/privacy.html
+File Name: D:\theme\centure.volkovdesign.com\privacy.html
+Content Type: text/html
+
+Uri: https://centure.volkovdesign.com/profile.html
+File Name: D:\theme\centure.volkovdesign.com\profile.html
+Content Type: text/html
+
+Uri: https://centure.volkovdesign.com/reports.html
+File Name: D:\theme\centure.volkovdesign.com\reports.html
+Content Type: text/html
+
+Uri: https://centure.volkovdesign.com/signin.html
+File Name: D:\theme\centure.volkovdesign.com\signin.html
+Content Type: text/html
+
+Uri: https://centure.volkovdesign.com/signup.html
+File Name: D:\theme\centure.volkovdesign.com\signup.html
+Content Type: text/html
+
+Uri: https://centure.volkovdesign.com/token.html
+File Name: D:\theme\centure.volkovdesign.com\token.html
+Content Type: text/html
+
+Uri: https://centure.volkovdesign.com/webfont/fonts/tabler-icons.eot?
+File Name: D:\theme\centure.volkovdesign.com\webfont\fonts\tabler-icons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://centure.volkovdesign.com/webfont/fonts/tabler-icons.eot?v2.30.0
+File Name: D:\theme\centure.volkovdesign.com\webfont\fonts\tabler-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://centure.volkovdesign.com/webfont/fonts/tabler-icons.ttf?v2.30.0
+File Name: D:\theme\centure.volkovdesign.com\webfont\fonts\tabler-icons.ttf
+Content Type: application/octet-stream
+
+Uri: https://centure.volkovdesign.com/webfont/fonts/tabler-icons.woff2?v2.30.0
+File Name: D:\theme\centure.volkovdesign.com\webfont\fonts\tabler-icons.woff2
+Content Type: font/woff2
+
+Uri: https://centure.volkovdesign.com/webfont/fonts/tabler-icons.woff?
+File Name: D:\theme\centure.volkovdesign.com\webfont\fonts\tabler-icons.woff
+Content Type: font/woff
+
+Uri: https://centure.volkovdesign.com/webfont/tabler-icons.min.css
+File Name: D:\theme\centure.volkovdesign.com\webfont\tabler-icons.min.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500&display=swap
+File Name: D:\theme\centure.volkovdesign.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/manrope/v15/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk6jFO_F.ttf
+File Name: D:\theme\centure.volkovdesign.com\s\manrope\v15\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk6jFO_F.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v15/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FO_F.ttf
+File Name: D:\theme\centure.volkovdesign.com\s\manrope\v15\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FO_F.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v15/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk7PFO_F.ttf
+File Name: D:\theme\centure.volkovdesign.com\s\manrope\v15\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk7PFO_F.ttf
+Content Type: font/ttf
+
