@@ -5279,3 +5279,45 @@ body::-webkit-scrollbar-thumb {
 .center_header {
   margin: 0 auto;
 }
+
+
+/* doc - css */
+
+.doc-align {
+  color: white;
+}
+.doc-align h2  {
+  font-size: 26px;
+  font-weight: 800;
+}
+.doc-align h3  {
+  font-size: 20px;
+  font-weight: 600;
+}
+.doc-align p  {
+  font-size: 16px;
+  line-height: 26px;
+  font-weight: 400;
+  color: #e2e2e2;
+}
+
+.doc-align ul {
+  list-style: disc;
+  padding-left: 20px;
+  color: #d0d0d0;
+}
+
+.m0 {
+  margin: 0;
+}
+
+.pt10 {
+  padding-top: 10px;
+}
+.pt20 {
+  padding-top: 20px;
+}
+
+.pl14 {
+  padding-left: 14px;
+}
