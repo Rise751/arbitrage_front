@@ -64,7 +64,7 @@
 								<a href="index.html">Home </a>
 							</li>
 							<li class="header__dropdown">
-								<a href="how.html">How it work </a>
+								<a href="how.html">How it works? </a>
 							</li>
 							<li>
 								<a href="contacts.html">Contact us</a>
@@ -126,7 +126,7 @@
 							<div class="col-12 col-md-6 col-xl-3">
 								<div class="form__group">
 									<label for="mail" class="form__label">Email</label>
-									<input id="mail" type="text" name="mail" class="form__input"
+									<input id="mail" type="email" name="mail" class="form__input"
 										placeholder="example@domain.com">
 								</div>
 							</div>
@@ -156,7 +156,7 @@
 							</div>
 
 							<div class="col-12">
-								<button type="button" class="form__btn form__btn--small">Submit</button>
+								<button id="submitBtn" type="button" class="form__btn form__btn--small">Submit</button>
 							</div>
 						</div>
 
@@ -248,7 +248,7 @@
 					<h6 class="footer__title">Support</h6>
 					<div class="footer__nav">
 						<a href="#">Help center</a>
-						<a href="how.html">How it works</a>
+						<a href="how.html">How it works?</a>
 						<a href="/privacy-policy.html">Privacy policy</a>
 						<a href="/terms.html">Terms & conditions</a>
 					</div>
@@ -293,6 +293,57 @@
 	<script src="js/three.min.js"></script>
 	<script src="js/vanta.fog.min.js"></script>
 	<script src="js/main.js"></script>
+
+	<script>
+		document.getElementById("submitBtn").addEventListener("click", function () {
+			const name = document.getElementById("name").value.trim();
+			const mail = document.getElementById("mail").value.trim();
+			const phone = document.getElementById("phone").value.trim();
+			const subject = document.getElementById("subject").value.trim();
+			const message = document.getElementById("message").value.trim();
+
+			if (!name || !mail || !phone || !subject || !message) {
+				alert("Please fill in all the fields.");
+				return;
+			}
+
+			const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+			if (!emailRegex.test(mail)) {
+				alert("Please enter a valid email address.");
+				return;
+			}
+
+			const data = {
+				"name": name,
+				"email": mail,
+				"phone": phone,
+				"subject": subject,
+				"message": message
+			};
+
+			fetch("https://backend.arbitrage.market/account/contactus", {
+				method: "POST",
+				headers: {
+					"Content-Type": "application/json",
+				},
+				body: JSON.stringify(data), // send data as JSON
+			}).then((response) => {
+				if (!response.ok) {
+					throw new Error("Network response was not OK");
+				}
+				return response.json();
+			})
+				.then((data) => {
+					alert("Your message has been sent successfully!");
+					document.querySelector(".form").reset();
+				})
+				.catch((error) => {
+					console.error("Error:", error);
+					alert("There was an error submitting your message.");
+				});
+		});
+	</script>
+
 </body>
 
 </html>
